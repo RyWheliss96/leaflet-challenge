@@ -21,7 +21,7 @@ Finally static/css/style.css which contains the css for the file. It is edited t
 There were no big questions asked in this challenge.<br />
 Below you will find a sample view of the data <br />
 
-![sample_view](Images/sample_view.png)
+![sample_view](Leaflet-Part-1/Images/sample_view.png)
 
 ## Givens
 Most of my process was very straight forward. I completed all of the working testing along the way.<br />
